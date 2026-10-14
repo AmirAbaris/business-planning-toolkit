@@ -14,7 +14,7 @@ cd business-planning-toolkit
 python3 scripts/verify_toolkit.py
 ```
 
-The repository is private by default, so cloning requires GitHub access. Open the
+The repository is public and can be cloned without signing in. Open the
 repository as your agent's working folder. Codex uses the root `AGENTS.md` and
 project skills in `.agents/skills/`. For other agents, explicitly ask it to read
 `AGENTS.md`, then load the relevant `.agents/skills/<name>/SKILL.md` and linked
