@@ -1,0 +1,13 @@
+# Private venture work; source documentation lives in docs-toolkit/.
+/docs/
+/deliverables/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+/work/

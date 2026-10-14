@@ -1,0 +1,420 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-10-14",
+  "skills": [
+    {
+      "name": "blue-ocean-strategy",
+      "repository": "https://github.com/wondelai/skills",
+      "commit": "c172996495bed0fcd26896a9416b2093fd7073f0",
+      "source_path": "blue-ocean-strategy",
+      "license": "MIT",
+      "license_source": "LICENSE",
+      "destination": ".agents/skills/blue-ocean-strategy",
+      "changes": "Original content unchanged; upstream root license added as LICENSE.",
+      "source_files": {
+        ".agents/skills/blue-ocean-strategy/LICENSE": "LICENSE",
+        ".agents/skills/blue-ocean-strategy/SKILL.md": "blue-ocean-strategy/SKILL.md",
+        ".agents/skills/blue-ocean-strategy/references/blue-ocean-examples.md": "blue-ocean-strategy/references/blue-ocean-examples.md",
+        ".agents/skills/blue-ocean-strategy/references/errc-grid.md": "blue-ocean-strategy/references/errc-grid.md",
+        ".agents/skills/blue-ocean-strategy/references/implementation.md": "blue-ocean-strategy/references/implementation.md",
+        ".agents/skills/blue-ocean-strategy/references/non-customers.md": "blue-ocean-strategy/references/non-customers.md",
+        ".agents/skills/blue-ocean-strategy/references/sequence.md": "blue-ocean-strategy/references/sequence.md",
+        ".agents/skills/blue-ocean-strategy/references/six-paths.md": "blue-ocean-strategy/references/six-paths.md",
+        ".agents/skills/blue-ocean-strategy/references/strategy-canvas.md": "blue-ocean-strategy/references/strategy-canvas.md",
+        ".agents/skills/blue-ocean-strategy/references/value-innovation.md": "blue-ocean-strategy/references/value-innovation.md"
+      },
+      "sha256": {
+        ".agents/skills/blue-ocean-strategy/LICENSE": "87c3c90f9e673a76b8ca81049b8fe30996b910a7a80140c3ed57a2ee922d2579",
+        ".agents/skills/blue-ocean-strategy/SKILL.md": "6fefda23f1673390476244db624ff0fe9c115a445d0a43728d5d5d310a8ae896",
+        ".agents/skills/blue-ocean-strategy/references/blue-ocean-examples.md": "4305e9207c3161fbfdde184a9559c91a1baba2785c9169fc6ddf6f5b291ab97e",
+        ".agents/skills/blue-ocean-strategy/references/errc-grid.md": "4bce9aa06b218e34c972d9b5fda06cac9b520e677a35616af20c208e586da660",
+        ".agents/skills/blue-ocean-strategy/references/implementation.md": "f0f3d8066283992abf0864028faaa62e6a47d169d549024289a5360fb0066d56",
+        ".agents/skills/blue-ocean-strategy/references/non-customers.md": "b529f83c28155534af679ef0592909e2fd9f55ad26bda78d4a69ecef268de4a2",
+        ".agents/skills/blue-ocean-strategy/references/sequence.md": "97b3500baa20b42db2e4b6e4f4754939c0a45f6bef353f04f9bc4f6a7036092a",
+        ".agents/skills/blue-ocean-strategy/references/six-paths.md": "f9e23e771081880d2fbf97df0fe5f65cc9d1903af38fe16ed5d68a463e8a3ca8",
+        ".agents/skills/blue-ocean-strategy/references/strategy-canvas.md": "975f9b488df634f5365b759360af6c9784d8332bd67c0ef93c0f6b91fb2a85b4",
+        ".agents/skills/blue-ocean-strategy/references/value-innovation.md": "b5f3ba6be013870bb1e255e0695005e03043ceb4d95dc2f4e45e584634d57ff5"
+      }
+    },
+    {
+      "name": "business-model",
+      "repository": "https://github.com/phuryn/pm-skills",
+      "commit": "c68487d721e419ec87af1ae6412a842978eab785",
+      "source_path": "pm-product-strategy/skills/business-model",
+      "license": "MIT",
+      "license_source": "LICENSE",
+      "destination": ".agents/skills/business-model",
+      "changes": "Original content unchanged; upstream root license added as LICENSE.",
+      "source_files": {
+        ".agents/skills/business-model/LICENSE": "LICENSE",
+        ".agents/skills/business-model/SKILL.md": "pm-product-strategy/skills/business-model/SKILL.md"
+      },
+      "sha256": {
+        ".agents/skills/business-model/LICENSE": "a2c922f9b81b4f40347ddfa79c38eda0f1278b5a6d108bd4099b4da254c774ee",
+        ".agents/skills/business-model/SKILL.md": "515621fd8a41ecba5b7234d0d9e1e50185ba33805c4dd170b66364281f84acc8"
+      }
+    },
+    {
+      "name": "create-business",
+      "repository": "https://github.com/wondelai/skills",
+      "commit": "c172996495bed0fcd26896a9416b2093fd7073f0",
+      "source_path": "create-business",
+      "license": "MIT",
+      "license_source": "LICENSE",
+      "destination": ".agents/skills/create-business",
+      "changes": "Original content unchanged; upstream root license added as LICENSE.",
+      "source_files": {
+        ".agents/skills/create-business/LICENSE": "LICENSE",
+        ".agents/skills/create-business/SKILL.md": "create-business/SKILL.md",
+        ".agents/skills/create-business/references/artifact-templates.md": "create-business/references/artifact-templates.md"
+      },
+      "sha256": {
+        ".agents/skills/create-business/LICENSE": "87c3c90f9e673a76b8ca81049b8fe30996b910a7a80140c3ed57a2ee922d2579",
+        ".agents/skills/create-business/SKILL.md": "2da65aaa976f03e43c638d3d140c44fd9e270f38f8221e7fee495d52d800c925",
+        ".agents/skills/create-business/references/artifact-templates.md": "beee86b0876abc559fc6223fc4467c13c292ccb0ef2791ac8b916f5cfe890616"
+      }
+    },
+    {
+      "name": "crossing-the-chasm",
+      "repository": "https://github.com/wondelai/skills",
+      "commit": "c172996495bed0fcd26896a9416b2093fd7073f0",
+      "source_path": "crossing-the-chasm",
+      "license": "MIT",
+      "license_source": "LICENSE",
+      "destination": ".agents/skills/crossing-the-chasm",
+      "changes": "Original content unchanged; upstream root license added as LICENSE.",
+      "source_files": {
+        ".agents/skills/crossing-the-chasm/LICENSE": "LICENSE",
+        ".agents/skills/crossing-the-chasm/SKILL.md": "crossing-the-chasm/SKILL.md",
+        ".agents/skills/crossing-the-chasm/references/b2b-saas.md": "crossing-the-chasm/references/b2b-saas.md",
+        ".agents/skills/crossing-the-chasm/references/beachhead-selection.md": "crossing-the-chasm/references/beachhead-selection.md",
+        ".agents/skills/crossing-the-chasm/references/buyer-segments.md": "crossing-the-chasm/references/buyer-segments.md",
+        ".agents/skills/crossing-the-chasm/references/case-studies.md": "crossing-the-chasm/references/case-studies.md",
+        ".agents/skills/crossing-the-chasm/references/expansion.md": "crossing-the-chasm/references/expansion.md",
+        ".agents/skills/crossing-the-chasm/references/go-to-market.md": "crossing-the-chasm/references/go-to-market.md",
+        ".agents/skills/crossing-the-chasm/references/positioning.md": "crossing-the-chasm/references/positioning.md",
+        ".agents/skills/crossing-the-chasm/references/whole-product.md": "crossing-the-chasm/references/whole-product.md"
+      },
+      "sha256": {
+        ".agents/skills/crossing-the-chasm/LICENSE": "87c3c90f9e673a76b8ca81049b8fe30996b910a7a80140c3ed57a2ee922d2579",
+        ".agents/skills/crossing-the-chasm/SKILL.md": "93c266a4aaa2f95b0682e66ce4450d1eb2bbf64a271942f9cec9ecb59b8fde7c",
+        ".agents/skills/crossing-the-chasm/references/b2b-saas.md": "f1932ddc46ce5bc068785415a9266c804d9afaf1a6ec8f461f9fe6b880de4d09",
+        ".agents/skills/crossing-the-chasm/references/beachhead-selection.md": "69fd0c98694b1833f22955180b9dd452f8913527d4e904eeb9ea17a2dee05e33",
+        ".agents/skills/crossing-the-chasm/references/buyer-segments.md": "d816f813662a5a1a720112ac93f6477c58bd216cf927586d809620b45c79e4c9",
+        ".agents/skills/crossing-the-chasm/references/case-studies.md": "7c7ef164e3c03e57d9ab321e87c7e44a6820cfcedcf90e18f513db8756385867",
+        ".agents/skills/crossing-the-chasm/references/expansion.md": "e027f8593993cc0f47762566f514e90497d9e29f1f66cee211c87a46e6a1276d",
+        ".agents/skills/crossing-the-chasm/references/go-to-market.md": "2b9592547d877cd9e0459f6cf1447daff2f6b5fcd9c7ee50c66441f87665df9e",
+        ".agents/skills/crossing-the-chasm/references/positioning.md": "2c86d85b8eecbced309eb318f5ec035420477a99f0d27e17622d6f3b83c0e9d1",
+        ".agents/skills/crossing-the-chasm/references/whole-product.md": "e5da6ed2ab9cf6e5e2050d7bcbb591c2eeec473807fab470df80b9166c0bfc40"
+      }
+    },
+    {
+      "name": "design-sprint",
+      "repository": "https://github.com/wondelai/skills",
+      "commit": "c172996495bed0fcd26896a9416b2093fd7073f0",
+      "source_path": "design-sprint",
+      "license": "MIT",
+      "license_source": "LICENSE",
+      "destination": ".agents/skills/design-sprint",
+      "changes": "Original content unchanged; upstream root license added as LICENSE.",
+      "source_files": {
+        ".agents/skills/design-sprint/LICENSE": "LICENSE",
+        ".agents/skills/design-sprint/SKILL.md": "design-sprint/SKILL.md",
+        ".agents/skills/design-sprint/references/case-studies.md": "design-sprint/references/case-studies.md",
+        ".agents/skills/design-sprint/references/facilitation.md": "design-sprint/references/facilitation.md",
+        ".agents/skills/design-sprint/references/friday.md": "design-sprint/references/friday.md",
+        ".agents/skills/design-sprint/references/monday.md": "design-sprint/references/monday.md",
+        ".agents/skills/design-sprint/references/recruiting.md": "design-sprint/references/recruiting.md",
+        ".agents/skills/design-sprint/references/remote-sprints.md": "design-sprint/references/remote-sprints.md",
+        ".agents/skills/design-sprint/references/thursday.md": "design-sprint/references/thursday.md",
+        ".agents/skills/design-sprint/references/tuesday.md": "design-sprint/references/tuesday.md",
+        ".agents/skills/design-sprint/references/wednesday.md": "design-sprint/references/wednesday.md"
+      },
+      "sha256": {
+        ".agents/skills/design-sprint/LICENSE": "87c3c90f9e673a76b8ca81049b8fe30996b910a7a80140c3ed57a2ee922d2579",
+        ".agents/skills/design-sprint/SKILL.md": "2da4890a338abf865e627dbc23af4d5beafb0d66c50a9c79ac3def67a188a7a6",
+        ".agents/skills/design-sprint/references/case-studies.md": "1a181661b1d60d5eb1100874aa087d271353028e1cc103ce5634476bbbe4e2ea",
+        ".agents/skills/design-sprint/references/facilitation.md": "58bcc7aa44060cf211731873419356c60262aa590f9c1a87725df62759403d80",
+        ".agents/skills/design-sprint/references/friday.md": "7d6e6469498892944066773401c9973aa15338fb590dd4e4d562c665ff48042c",
+        ".agents/skills/design-sprint/references/monday.md": "2de0d9bbb56c2deefead0b36bab6adfc412b1e51c3d3b0aee2355fc1315fc63f",
+        ".agents/skills/design-sprint/references/recruiting.md": "c73ba742d81de89fa3ad2172604fb06f120549b2d144728b4e0b52146a7b2adc",
+        ".agents/skills/design-sprint/references/remote-sprints.md": "06c4775b320111bae74aba1f7b5cef955967c7759e97a07a346a3f5a75155473",
+        ".agents/skills/design-sprint/references/thursday.md": "6339b3532617025fadfac5765a18a4df421ff3656b755b010adcee919a8a23f0",
+        ".agents/skills/design-sprint/references/tuesday.md": "1cc1ec7a8f4790f1e22c087b616dd901308a917c7db9fde75f7c4ec324b87687",
+        ".agents/skills/design-sprint/references/wednesday.md": "bfec5d270d8dcb1cf0626c8f0bd0be616417bbc1d9cace04925784b66eb069c4"
+      }
+    },
+    {
+      "name": "financial-modeling",
+      "repository": "https://github.com/magnus919/agent-skills",
+      "commit": "b3b45651ffa2ca882911c2ebfeeab8e3dc7b53ce",
+      "source_path": "financial-modeling",
+      "license": "MIT",
+      "license_source": "LICENSE.md",
+      "destination": ".agents/skills/financial-modeling",
+      "changes": "Original content unchanged; upstream root license added as LICENSE.",
+      "source_files": {
+        ".agents/skills/financial-modeling/LICENSE": "LICENSE.md",
+        ".agents/skills/financial-modeling/README.md": "financial-modeling/README.md",
+        ".agents/skills/financial-modeling/SKILL.md": "financial-modeling/SKILL.md",
+        ".agents/skills/financial-modeling/evals/evals.json": "financial-modeling/evals/evals.json",
+        ".agents/skills/financial-modeling/references/financial-modeling.md": "financial-modeling/references/financial-modeling.md",
+        ".agents/skills/financial-modeling/references/fundraising.md": "financial-modeling/references/fundraising.md",
+        ".agents/skills/financial-modeling/references/pricing-strategy.md": "financial-modeling/references/pricing-strategy.md",
+        ".agents/skills/financial-modeling/references/saas-metrics.md": "financial-modeling/references/saas-metrics.md",
+        ".agents/skills/financial-modeling/references/source-index.md": "financial-modeling/references/source-index.md",
+        ".agents/skills/financial-modeling/references/unit-economics.md": "financial-modeling/references/unit-economics.md",
+        ".agents/skills/financial-modeling/scripts/saas-metrics.py": "financial-modeling/scripts/saas-metrics.py",
+        ".agents/skills/financial-modeling/scripts/test_saas_metrics.py": "financial-modeling/scripts/test_saas_metrics.py",
+        ".agents/skills/financial-modeling/templates/fundraising-scenario.md": "financial-modeling/templates/fundraising-scenario.md",
+        ".agents/skills/financial-modeling/templates/model-sanity-checklist.md": "financial-modeling/templates/model-sanity-checklist.md",
+        ".agents/skills/financial-modeling/templates/pricing-decision-record.md": "financial-modeling/templates/pricing-decision-record.md",
+        ".agents/skills/financial-modeling/templates/unit-economics-record.md": "financial-modeling/templates/unit-economics-record.md"
+      },
+      "sha256": {
+        ".agents/skills/financial-modeling/LICENSE": "22fa3b1ec405fe440e86d0d293ce21de0c637ebc37f263dbe3032ee47215cfe2",
+        ".agents/skills/financial-modeling/README.md": "7e6c6d9e9500ed52dd9d7780523ce525476aa5d7f6483e570cd955ce89267fed",
+        ".agents/skills/financial-modeling/SKILL.md": "786b87b78e4153f4792e7ba14aacabb10a777705f44734327bea9223a5b59a8a",
+        ".agents/skills/financial-modeling/evals/evals.json": "9bbac7abef6f3a1604693a6796c29236d02c5c37d4eb3f0540c1f28865663d7b",
+        ".agents/skills/financial-modeling/references/financial-modeling.md": "34ab8ab90096624bad152bdfa0a75d2f190533a2fb061cd10a23216bc7d572e5",
+        ".agents/skills/financial-modeling/references/fundraising.md": "9a5fc3531d763c4448c41d5c99d03813fbe501a525f01e5ed612dd612185aaa6",
+        ".agents/skills/financial-modeling/references/pricing-strategy.md": "4c013c298a6307061b4ccec13c16b4ad7848bb9529f4b1ef95b4b3102843d334",
+        ".agents/skills/financial-modeling/references/saas-metrics.md": "2cc04db828d2fa29cbb4af34f196a1d2fe47d3dd4f2e8e44601014fc31a668ad",
+        ".agents/skills/financial-modeling/references/source-index.md": "b18fa0557d1859a9d6b09762fb5b9465f38c53025056562d69e46a39fc471eb7",
+        ".agents/skills/financial-modeling/references/unit-economics.md": "ce0ba778b566302b7db72b9bae9873351872c4d26ea5a024eb9660206313f758",
+        ".agents/skills/financial-modeling/scripts/saas-metrics.py": "807ea8c4397abc575b3b508c871bf1ddecb6d8ed33e8504c7c8fdb87ce76503f",
+        ".agents/skills/financial-modeling/scripts/test_saas_metrics.py": "eeb59ffae38860ab9e25ab528c90b84109532f17efc2699a2f996e32c2d8c602",
+        ".agents/skills/financial-modeling/templates/fundraising-scenario.md": "505d61a4031d4abffe5836d5fedfdd486c074d66f321b690edc4a02e43c9e141",
+        ".agents/skills/financial-modeling/templates/model-sanity-checklist.md": "f4972c1ec205620846d4763d63579848126959379f334879e4a98263741d0ab7",
+        ".agents/skills/financial-modeling/templates/pricing-decision-record.md": "c1fb93ca49901219b42c7ae18de1f799622d06a0f137fd86bcbf7bdac4e9a678",
+        ".agents/skills/financial-modeling/templates/unit-economics-record.md": "3edccb4899cdc2af45fb5374423fb3072a4d81e440819ed228350f590fea61ff"
+      }
+    },
+    {
+      "name": "good-strategy-bad-strategy",
+      "repository": "https://github.com/wondelai/skills",
+      "commit": "c172996495bed0fcd26896a9416b2093fd7073f0",
+      "source_path": "good-strategy-bad-strategy",
+      "license": "MIT",
+      "license_source": "LICENSE",
+      "destination": ".agents/skills/good-strategy-bad-strategy",
+      "changes": "Original content unchanged; upstream root license added as LICENSE.",
+      "source_files": {
+        ".agents/skills/good-strategy-bad-strategy/LICENSE": "LICENSE",
+        ".agents/skills/good-strategy-bad-strategy/SKILL.md": "good-strategy-bad-strategy/SKILL.md",
+        ".agents/skills/good-strategy-bad-strategy/references/bad-strategy.md": "good-strategy-bad-strategy/references/bad-strategy.md",
+        ".agents/skills/good-strategy-bad-strategy/references/case-studies.md": "good-strategy-bad-strategy/references/case-studies.md",
+        ".agents/skills/good-strategy-bad-strategy/references/dynamics-inertia.md": "good-strategy-bad-strategy/references/dynamics-inertia.md",
+        ".agents/skills/good-strategy-bad-strategy/references/kernel.md": "good-strategy-bad-strategy/references/kernel.md",
+        ".agents/skills/good-strategy-bad-strategy/references/sources-of-power.md": "good-strategy-bad-strategy/references/sources-of-power.md"
+      },
+      "sha256": {
+        ".agents/skills/good-strategy-bad-strategy/LICENSE": "87c3c90f9e673a76b8ca81049b8fe30996b910a7a80140c3ed57a2ee922d2579",
+        ".agents/skills/good-strategy-bad-strategy/SKILL.md": "7adebf248a5aa40ef6bc34d3f379a9cd22663b8ca8086fc350c95cee6d4d2035",
+        ".agents/skills/good-strategy-bad-strategy/references/bad-strategy.md": "28897e0d1973d483362feec44f228299b6ce18521c63b056e7f194495d1200a6",
+        ".agents/skills/good-strategy-bad-strategy/references/case-studies.md": "5e3315ea362aec07ff9af6eff593d7223c13e49bb37806633198da50a358ada6",
+        ".agents/skills/good-strategy-bad-strategy/references/dynamics-inertia.md": "87679e5f393b04b64a2b415b77fbc0f18bdc1ef8bd7a5c4045bce886da73984e",
+        ".agents/skills/good-strategy-bad-strategy/references/kernel.md": "491141f94e43657b87fce8c1a8579243245daedb9a5432ca47720f0eb2c76a81",
+        ".agents/skills/good-strategy-bad-strategy/references/sources-of-power.md": "80fb2c0ff37d95aea62b9471315528ba9eef67316fecc2c333165e5e2f3e2401"
+      }
+    },
+    {
+      "name": "hundred-million-offers",
+      "repository": "https://github.com/wondelai/skills",
+      "commit": "c172996495bed0fcd26896a9416b2093fd7073f0",
+      "source_path": "hundred-million-offers",
+      "license": "MIT",
+      "license_source": "LICENSE",
+      "destination": ".agents/skills/hundred-million-offers",
+      "changes": "Original content unchanged; upstream root license added as LICENSE.",
+      "source_files": {
+        ".agents/skills/hundred-million-offers/LICENSE": "LICENSE",
+        ".agents/skills/hundred-million-offers/SKILL.md": "hundred-million-offers/SKILL.md",
+        ".agents/skills/hundred-million-offers/references/bonuses-stacking.md": "hundred-million-offers/references/bonuses-stacking.md",
+        ".agents/skills/hundred-million-offers/references/case-studies.md": "hundred-million-offers/references/case-studies.md",
+        ".agents/skills/hundred-million-offers/references/grand-slam-offers.md": "hundred-million-offers/references/grand-slam-offers.md",
+        ".agents/skills/hundred-million-offers/references/guarantees.md": "hundred-million-offers/references/guarantees.md",
+        ".agents/skills/hundred-million-offers/references/naming-offers.md": "hundred-million-offers/references/naming-offers.md",
+        ".agents/skills/hundred-million-offers/references/offer-creation-checklist.md": "hundred-million-offers/references/offer-creation-checklist.md",
+        ".agents/skills/hundred-million-offers/references/pricing-strategy.md": "hundred-million-offers/references/pricing-strategy.md",
+        ".agents/skills/hundred-million-offers/references/scarcity-urgency.md": "hundred-million-offers/references/scarcity-urgency.md",
+        ".agents/skills/hundred-million-offers/references/starving-crowd.md": "hundred-million-offers/references/starving-crowd.md",
+        ".agents/skills/hundred-million-offers/references/value-equation.md": "hundred-million-offers/references/value-equation.md"
+      },
+      "sha256": {
+        ".agents/skills/hundred-million-offers/LICENSE": "87c3c90f9e673a76b8ca81049b8fe30996b910a7a80140c3ed57a2ee922d2579",
+        ".agents/skills/hundred-million-offers/SKILL.md": "585779eac550ef8c43114b68e51c2eb1bf9547381fcd7342d54190c0d0cdc314",
+        ".agents/skills/hundred-million-offers/references/bonuses-stacking.md": "624624c85fc04c0fea37aaace961d63be55f7edadafa02729ee57665367dbdc2",
+        ".agents/skills/hundred-million-offers/references/case-studies.md": "efaf0a1f82ba668b87fb881c7d5363a770a7eb26bdf3fb24f12db13173996393",
+        ".agents/skills/hundred-million-offers/references/grand-slam-offers.md": "b7079ff8724bcd8cc910b40a24110485936d9289d1009620d3da524c5bc22520",
+        ".agents/skills/hundred-million-offers/references/guarantees.md": "0c27eef0a0ddc4b4a7efbaf384d242a9ea28c6be9de828c60a86148e8d6a9e86",
+        ".agents/skills/hundred-million-offers/references/naming-offers.md": "5b15cd6f44260b76d10a7dd60d1d7e91b0d0bbdcdfb97f54625dd10c627ff22c",
+        ".agents/skills/hundred-million-offers/references/offer-creation-checklist.md": "72b81f277bf409e661a0ca170775addcbfc1c4bdde4852ffb5783b7ffbb13ce5",
+        ".agents/skills/hundred-million-offers/references/pricing-strategy.md": "0f0982dd7921619ddea77a48f3819e8f3865c10dc464959d9b7c325e65a0a878",
+        ".agents/skills/hundred-million-offers/references/scarcity-urgency.md": "a5aaabc0f03735801a7a1e482ac5e28019b727d95991e55c1cdf90c0c8bb56fa",
+        ".agents/skills/hundred-million-offers/references/starving-crowd.md": "2f7ebecb3e746dbb86136d6e7b4a5f16aeee4d37821fd89adca6edb248aee0cc",
+        ".agents/skills/hundred-million-offers/references/value-equation.md": "58d997e85190e267e0ceedfd2dcbfb83555af19602df9b4f14fc76e25ea745b3"
+      }
+    },
+    {
+      "name": "jobs-to-be-done",
+      "repository": "https://github.com/wondelai/skills",
+      "commit": "c172996495bed0fcd26896a9416b2093fd7073f0",
+      "source_path": "jobs-to-be-done",
+      "license": "MIT",
+      "license_source": "LICENSE",
+      "destination": ".agents/skills/jobs-to-be-done",
+      "changes": "Original content unchanged; upstream root license added as LICENSE.",
+      "source_files": {
+        ".agents/skills/jobs-to-be-done/LICENSE": "LICENSE",
+        ".agents/skills/jobs-to-be-done/SKILL.md": "jobs-to-be-done/SKILL.md",
+        ".agents/skills/jobs-to-be-done/references/case-studies.md": "jobs-to-be-done/references/case-studies.md",
+        ".agents/skills/jobs-to-be-done/references/competitive-strategy.md": "jobs-to-be-done/references/competitive-strategy.md",
+        ".agents/skills/jobs-to-be-done/references/diagnostics.md": "jobs-to-be-done/references/diagnostics.md",
+        ".agents/skills/jobs-to-be-done/references/innovation-process.md": "jobs-to-be-done/references/innovation-process.md",
+        ".agents/skills/jobs-to-be-done/references/organizational-change.md": "jobs-to-be-done/references/organizational-change.md"
+      },
+      "sha256": {
+        ".agents/skills/jobs-to-be-done/LICENSE": "87c3c90f9e673a76b8ca81049b8fe30996b910a7a80140c3ed57a2ee922d2579",
+        ".agents/skills/jobs-to-be-done/SKILL.md": "cc227aa837bda4ae0910324e52a90d338354501d005f7ef2fbd0cff9fd73aaf1",
+        ".agents/skills/jobs-to-be-done/references/case-studies.md": "8b84a8d21c76550b5aed97dbf3fe6014b68e4ee01aa40c4a43098cce65defd9f",
+        ".agents/skills/jobs-to-be-done/references/competitive-strategy.md": "434e063dd6351e8e6e206e4e1279ffc0795e11e930cf722d5800fb40d64c4d9b",
+        ".agents/skills/jobs-to-be-done/references/diagnostics.md": "8fd67851b62ac990b3c756454499e7fb11cc08b0c45f571ce88a0cf99b696f2c",
+        ".agents/skills/jobs-to-be-done/references/innovation-process.md": "af7e840888aa3430218d002ecdc5f421204af34afef6e25260e40b5444f40eae",
+        ".agents/skills/jobs-to-be-done/references/organizational-change.md": "ac3723d26ca21e1be002c2d7081b319bb8d33df53373b9dba570f05e2676f9ba"
+      }
+    },
+    {
+      "name": "lean-startup",
+      "repository": "https://github.com/wondelai/skills",
+      "commit": "c172996495bed0fcd26896a9416b2093fd7073f0",
+      "source_path": "lean-startup",
+      "license": "MIT",
+      "license_source": "LICENSE",
+      "destination": ".agents/skills/lean-startup",
+      "changes": "Original content unchanged; upstream root license added as LICENSE.",
+      "source_files": {
+        ".agents/skills/lean-startup/LICENSE": "LICENSE",
+        ".agents/skills/lean-startup/SKILL.md": "lean-startup/SKILL.md",
+        ".agents/skills/lean-startup/references/applications.md": "lean-startup/references/applications.md",
+        ".agents/skills/lean-startup/references/assumptions.md": "lean-startup/references/assumptions.md",
+        ".agents/skills/lean-startup/references/build-measure-learn.md": "lean-startup/references/build-measure-learn.md",
+        ".agents/skills/lean-startup/references/case-studies.md": "lean-startup/references/case-studies.md",
+        ".agents/skills/lean-startup/references/five-whys.md": "lean-startup/references/five-whys.md",
+        ".agents/skills/lean-startup/references/growth-engines.md": "lean-startup/references/growth-engines.md",
+        ".agents/skills/lean-startup/references/innovation-accounting.md": "lean-startup/references/innovation-accounting.md",
+        ".agents/skills/lean-startup/references/metrics.md": "lean-startup/references/metrics.md",
+        ".agents/skills/lean-startup/references/mvp-design.md": "lean-startup/references/mvp-design.md",
+        ".agents/skills/lean-startup/references/pivots.md": "lean-startup/references/pivots.md",
+        ".agents/skills/lean-startup/references/small-batches.md": "lean-startup/references/small-batches.md"
+      },
+      "sha256": {
+        ".agents/skills/lean-startup/LICENSE": "87c3c90f9e673a76b8ca81049b8fe30996b910a7a80140c3ed57a2ee922d2579",
+        ".agents/skills/lean-startup/SKILL.md": "109bf176baf1c56f0d02f6a8a2d59d7969b64768a760bc7624516a8b42b5bf53",
+        ".agents/skills/lean-startup/references/applications.md": "60643365f99839da6fae172cf580dff6beab554410cc492ba63668c231bbfb57",
+        ".agents/skills/lean-startup/references/assumptions.md": "265910cd160280d88ef2803bcb0992e70cb4429a9a93ae3a6038247851d8314b",
+        ".agents/skills/lean-startup/references/build-measure-learn.md": "517cab2d11152488ab516b02760c3de57348cba5d990183afb367f8f6f5b10da",
+        ".agents/skills/lean-startup/references/case-studies.md": "7dc3022346010941cfe63e2d6908e1408b06095f30df0472b6a6d4655c54ceb4",
+        ".agents/skills/lean-startup/references/five-whys.md": "054ecf5e55e7601ab752cc751a6e59b0f11e55723c42066fe1c0c439de4f26fd",
+        ".agents/skills/lean-startup/references/growth-engines.md": "c3b872eb20ba13521e2eee26e3a81f0719e9255dee507a8180530662f5218049",
+        ".agents/skills/lean-startup/references/innovation-accounting.md": "6849e2f30cd4328677be4858bfceb2c45e116f38ae2acc3156ecd0b5d3771ddc",
+        ".agents/skills/lean-startup/references/metrics.md": "21f9ce541f11c8b68bfb71f05f7505413cf39b1bdb11bcc40b006e8581563d49",
+        ".agents/skills/lean-startup/references/mvp-design.md": "39fe845c74884fcf1a8b5881f5712f2c5b8ff8a5c312621c09ec3d521c2577e9",
+        ".agents/skills/lean-startup/references/pivots.md": "bd531bf4ca03c96bc565dcd87d11a8e314320cdf85eb4892bf9fd45df6f4aadc",
+        ".agents/skills/lean-startup/references/small-batches.md": "266e29e43bc52243ffea53e681c8c67d7a757d7c629d185b4762ebca9ef7605d"
+      }
+    },
+    {
+      "name": "mom-test",
+      "repository": "https://github.com/wondelai/skills",
+      "commit": "c172996495bed0fcd26896a9416b2093fd7073f0",
+      "source_path": "mom-test",
+      "license": "MIT",
+      "license_source": "LICENSE",
+      "destination": ".agents/skills/mom-test",
+      "changes": "Original content unchanged; upstream root license added as LICENSE.",
+      "source_files": {
+        ".agents/skills/mom-test/LICENSE": "LICENSE",
+        ".agents/skills/mom-test/SKILL.md": "mom-test/SKILL.md",
+        ".agents/skills/mom-test/references/avoiding-bad-data.md": "mom-test/references/avoiding-bad-data.md",
+        ".agents/skills/mom-test/references/case-studies.md": "mom-test/references/case-studies.md",
+        ".agents/skills/mom-test/references/commitment-advancement.md": "mom-test/references/commitment-advancement.md",
+        ".agents/skills/mom-test/references/finding-conversations.md": "mom-test/references/finding-conversations.md",
+        ".agents/skills/mom-test/references/processing-learning.md": "mom-test/references/processing-learning.md",
+        ".agents/skills/mom-test/references/question-patterns.md": "mom-test/references/question-patterns.md"
+      },
+      "sha256": {
+        ".agents/skills/mom-test/LICENSE": "87c3c90f9e673a76b8ca81049b8fe30996b910a7a80140c3ed57a2ee922d2579",
+        ".agents/skills/mom-test/SKILL.md": "fbf036f31e5932e68adc6d26abe8d75f2213b3c50ea345f7dffa2f235b0ce0ae",
+        ".agents/skills/mom-test/references/avoiding-bad-data.md": "492fca0a7b8dcbaf957b6ebbb59c659fc61b056c9a3a8c4c12db45960b19b00f",
+        ".agents/skills/mom-test/references/case-studies.md": "6dcf83432fe3200d35621fe71c94948d909a0ea7fbe01cf72bd51d16b4afc65b",
+        ".agents/skills/mom-test/references/commitment-advancement.md": "5ccdc2f2a23ef277cb24db064a6707b8508199ae27e40421e831ad7579ffae8c",
+        ".agents/skills/mom-test/references/finding-conversations.md": "c92135a7eee5ad8e8770eb7ad51442395ad53b1fb33ef267df83918c7b088912",
+        ".agents/skills/mom-test/references/processing-learning.md": "2d1d764128cd088e49e87134d842703bf708dae04a3ef2a1ded19596cd70d901",
+        ".agents/skills/mom-test/references/question-patterns.md": "fedda8d801d493c5f6df50a26124f1da748b1b92044282bbef5d64f209c68744"
+      }
+    },
+    {
+      "name": "monetizing-innovation",
+      "repository": "https://github.com/wondelai/skills",
+      "commit": "c172996495bed0fcd26896a9416b2093fd7073f0",
+      "source_path": "monetizing-innovation",
+      "license": "MIT",
+      "license_source": "LICENSE",
+      "destination": ".agents/skills/monetizing-innovation",
+      "changes": "Original content unchanged; upstream root license added as LICENSE.",
+      "source_files": {
+        ".agents/skills/monetizing-innovation/LICENSE": "LICENSE",
+        ".agents/skills/monetizing-innovation/SKILL.md": "monetizing-innovation/SKILL.md",
+        ".agents/skills/monetizing-innovation/references/case-studies.md": "monetizing-innovation/references/case-studies.md",
+        ".agents/skills/monetizing-innovation/references/four-failures.md": "monetizing-innovation/references/four-failures.md",
+        ".agents/skills/monetizing-innovation/references/monetization-models.md": "monetizing-innovation/references/monetization-models.md",
+        ".agents/skills/monetizing-innovation/references/packaging-tiers.md": "monetizing-innovation/references/packaging-tiers.md",
+        ".agents/skills/monetizing-innovation/references/wtp-conversations.md": "monetizing-innovation/references/wtp-conversations.md"
+      },
+      "sha256": {
+        ".agents/skills/monetizing-innovation/LICENSE": "87c3c90f9e673a76b8ca81049b8fe30996b910a7a80140c3ed57a2ee922d2579",
+        ".agents/skills/monetizing-innovation/SKILL.md": "690c57380a24a34f41069d3915366160be8d4db08fa7a643ff5c3751dad14375",
+        ".agents/skills/monetizing-innovation/references/case-studies.md": "48b9d599c069f9375abdb8d3ae2ce85ebd02c1bf3b9d8d47fc24202767ce477e",
+        ".agents/skills/monetizing-innovation/references/four-failures.md": "3a88742073b0513417afd30669087ee0bd6640934c47c842c7e6016890afed91",
+        ".agents/skills/monetizing-innovation/references/monetization-models.md": "a68e6ad5d710ab81f97df58783d843b6ef3607b3501161ef959e0b4c1cf6df92",
+        ".agents/skills/monetizing-innovation/references/packaging-tiers.md": "e117d6de7a61851af5a96a7011478ca70c8f5fc9fa7612bd0c5f645e2d5ca602",
+        ".agents/skills/monetizing-innovation/references/wtp-conversations.md": "9d841fa18fe9c83add6819607e2bdb169ee466f1131a2e4be71cf6e77cc8cd2a"
+      }
+    },
+    {
+      "name": "obviously-awesome",
+      "repository": "https://github.com/wondelai/skills",
+      "commit": "c172996495bed0fcd26896a9416b2093fd7073f0",
+      "source_path": "obviously-awesome",
+      "license": "MIT",
+      "license_source": "LICENSE",
+      "destination": ".agents/skills/obviously-awesome",
+      "changes": "Original content unchanged; upstream root license added as LICENSE.",
+      "source_files": {
+        ".agents/skills/obviously-awesome/LICENSE": "LICENSE",
+        ".agents/skills/obviously-awesome/SKILL.md": "obviously-awesome/SKILL.md",
+        ".agents/skills/obviously-awesome/references/case-studies.md": "obviously-awesome/references/case-studies.md",
+        ".agents/skills/obviously-awesome/references/competitive-alternatives.md": "obviously-awesome/references/competitive-alternatives.md",
+        ".agents/skills/obviously-awesome/references/market-category.md": "obviously-awesome/references/market-category.md",
+        ".agents/skills/obviously-awesome/references/positioning-canvas.md": "obviously-awesome/references/positioning-canvas.md",
+        ".agents/skills/obviously-awesome/references/target-customers.md": "obviously-awesome/references/target-customers.md",
+        ".agents/skills/obviously-awesome/references/team-exercise.md": "obviously-awesome/references/team-exercise.md",
+        ".agents/skills/obviously-awesome/references/unique-attributes.md": "obviously-awesome/references/unique-attributes.md",
+        ".agents/skills/obviously-awesome/references/value-mapping.md": "obviously-awesome/references/value-mapping.md"
+      },
+      "sha256": {
+        ".agents/skills/obviously-awesome/LICENSE": "87c3c90f9e673a76b8ca81049b8fe30996b910a7a80140c3ed57a2ee922d2579",
+        ".agents/skills/obviously-awesome/SKILL.md": "403b215c80ce3b124947598e9547c11f6eff142cc18a4f7fe508e15ac8ec35e0",
+        ".agents/skills/obviously-awesome/references/case-studies.md": "bd2bdbd85a817290768af707d89b751787f5332e4747375072d6747140b4a3d5",
+        ".agents/skills/obviously-awesome/references/competitive-alternatives.md": "28c61a953431d472b2b134b8096bcb3e3f971b6caeff4b5083f6d58f98ae43a5",
+        ".agents/skills/obviously-awesome/references/market-category.md": "ee3e78f685984a534417640aae6cc3d8704ba03bedf1d79316176928e797dc6f",
+        ".agents/skills/obviously-awesome/references/positioning-canvas.md": "d60a4c0e02f371d6f75348c027cfeed5cb3fd498a4e8b9949e395c780b8f7f4f",
+        ".agents/skills/obviously-awesome/references/target-customers.md": "9d78e65e4d5fb6f503cfcef780e0ce167422952b5b0890610c4447c544c2975a",
+        ".agents/skills/obviously-awesome/references/team-exercise.md": "69bb96a7bdcfbea668e14211f55f16eacadfb21a092927ed5e04d725c54c1549",
+        ".agents/skills/obviously-awesome/references/unique-attributes.md": "a322fee51821a2dc99f616a1b03bdb71d7eb8266465b4e3a50621fa7dafc5d66",
+        ".agents/skills/obviously-awesome/references/value-mapping.md": "16f8253b999ccedc20cac2d0790114339ec47fa6f84b9a3078b9a3387deea7e7"
+      }
+    }
+  ]
+}
